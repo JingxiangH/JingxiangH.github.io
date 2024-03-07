@@ -7,7 +7,7 @@ excerpt: 'I investigated the causality between education and income equality in 
 In the therotical part, I developed an OLG model at the household level, incorporating the choice of continuing high school education. By introducing the probability of attending college after completing high school, it captured the relationship between family education decisions and income, thereby unravelling mechanisms by which education perpetuates social immobility.
 
 And then I constructed a simultaneous equation model and employed the 3SLS method for estimation against the backdrop of income growth, concluding that education exacerbated income inequality through various channels.'
-date: 2009-10-01
+date: "May 2023"
 venue: #'Journal 1'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: # ''
