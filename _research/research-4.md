@@ -1,7 +1,7 @@
 ---
 title: "How will Releasing the Only-Child Policy Affect Household Saving in China?"
 collection: research
-permalink: /research/research-3
+permalink: /research/research-4
 excerpt: 'I worked as an independent researcher at University of California, Berkeley to conduct this research (Aug 2023 - Dec 2023).  
 
 I am very grateful to Gerard Roland and David Wu for their excellent guidance.  
