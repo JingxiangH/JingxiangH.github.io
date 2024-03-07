@@ -6,7 +6,9 @@ excerpt: 'I worked as an independent researcher at University of California, Ber
 
 I am very grateful to Gerard Roland and David Wu for their excellent guidance.  
 
-This paper utilized 2016 universal two-child policy as an exogenous policy shock to investigate changes in household saving rates. I constructed a panel using original CFPS datasets from 2012 to 2018 and applied the DID methodology. The main conclusion is that the relaxation of OCP resulted in a 5.5% increase in the household savings rate, which was different from existing studies. By conducting heterogeneity tests, it was revealed that the policy had substantial impact on low-income groups and almost no effect on high-income groups, suggesting the potential mechanism of the policy’s effect lay in families saving in preparation for future childbirth.'
+This paper utilized 2016 universal two-child policy as an exogenous policy shock to investigate changes in household saving rates. I constructed a panel using original CFPS datasets from 2012 to 2018 and applied the DID methodology. The main conclusion is that the relaxation of OCP resulted in a 5.5% increase in the household savings rate, which was different from existing studies. By conducting heterogeneity tests, it was revealed that the policy had substantial impact on low-income groups and almost no effect on high-income groups, suggesting the potential mechanism of the policy’s effect lay in families saving in preparation for future childbirth.
+
+The paper is inclued as a writing sample.'
 date: 2009-10-01
 venue: #'Journal 1'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
