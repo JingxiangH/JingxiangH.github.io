@@ -2,20 +2,15 @@
 title: "Introducing Capital Friction to Spatial DSGE Model"
 collection: research
 permalink: /research/research-4
-excerpt: 'I worked as an independent researcher at University of California, Berkeley to conduct this research (Aug 2023 - Dec 2023).  
+excerpt: 'I am working as an independent researcher advised by Professor Zhiwei Xu at Fudan University to conduct this research (Feb 2024 - ).   
 
-I am very grateful to Gerard Roland and David Wu for their excellent guidance.  
-
-This paper utilized 2016 universal two-child policy as an exogenous policy shock to investigate changes in household saving rates. I constructed a panel using original CFPS datasets from 2012 to 2018 and applied the DID methodology. The main conclusion is that the relaxation of OCP resulted in a 5.5% increase in the household savings rate, which was different from existing studies. By conducting heterogeneity tests, it was revealed that the policy had substantial impact on low-income groups and almost no effect on high-income groups, suggesting the potential mechanism of the policy’s effect lay in families saving in preparation for future childbirth.
-
-The paper is inclued as a writing sample.'
+This work is based on the dynamic spatial general equlibrium model developed by B. Kleinman, E. Liu and S. J. Redding (2023). I try to incorporate capital frictions including liquidity constraints and monetary assets into household decisions and construct a DSGE model to examine the impact and impulse response to the spatial distribution of trade and migration. The methods I'm using include Bellman equation iteration, dynamic exact hat algebra, spectral analysis, and etc.'
 date: 2009-10-01
 venue: #'Journal 1'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: # ''
 ---
 
-Abstract:
-China's savings rate is notably high, where household savings play a dominant role, and the relationship between population policy and household savings rate has been widely discussed. This paper utilizes China's 2016 Universal Two-Child Policy as an exogenous policy shock, setting up a difference-in-differences model, and empirically tests that relaxing the family planning policy will lead to an increase in household savings. Furthermore, this effect is more pronounced in families with low income, low assets, and those where the first child is a girl. The conclusion from this paper differs from previous research, suggesting that the effect of population policy on household saving may be dynamic and changing over time.
+I am working as an independent researcher advised by Professor Zhiwei Xu at Fudan University to conduct this research (Feb 2024 - ).  
 
-This paper can be found [here](../assets/OCP.pdf).
+This work is based on the dynamic spatial general equlibrium model developed by B. Kleinman, E. Liu and S. J. Redding (2023). I try to incorporate capital frictions including liquidity constraints and monetary assets into household decisions and construct a DSGE model to examine the impact and impulse response to the spatial distribution of trade and migration. The methods I'm using include Bellman equation iteration, dynamic exact hat algebra, spectral analysis, and etc.
