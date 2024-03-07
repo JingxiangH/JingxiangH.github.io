@@ -11,6 +11,6 @@ I'm a third-year undergraduate student at [School of Economics](https://econ.fud
 
 My Email is [jxhuang21@m.fudan.edu.cn](jxhuang21@m.fudan.edu.cn).
 
-My research experience is listed in the page RESEARCH, and writing samples are attached there. I have included my participation in extracurricular activities in the page ACTIVITY as well.
+My research experience is listed in the page RESEARCH, and writing samples are attached there.
 
 Detailed information can be found in my CV [Jingxiang's Curriculum Vitae](../assets/HJX_CV.pdf).
