@@ -13,4 +13,16 @@ My Email is [jxhuang21@m.fudan.edu.cn](jxhuang21@m.fudan.edu.cn).
 
 My research experience is listed in the page RESEARCH, and writing samples are attached there.
 
+
+### Personal Information
+
+Language: Mandarin (native), English (fluent).
+
+Computer Skills: Matlab, Python, Julia, Stata, LATEX, Adobe PhotoShop, Adobe Premiere, Davinci Resolve.
+
+Interests: Badminton, Shooting Movies, Photography and Travel.
+
+
+=== 
+
 Detailed information can be found in my CV [Jingxiang's Curriculum Vitae](../assets/HJX_CV.pdf).
