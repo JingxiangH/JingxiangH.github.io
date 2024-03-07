@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year undergraduate student at [School of Economics](https://econ.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn). My research interests widely lie in both theoretical and empirical research in the field of macroeconomics, development economics, labor economics, etc. I am currently applying for PhD program in economics.  
+I am a third-year undergraduate student at [School of Economics](https://econ.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn). My research interests widely lie in both theoretical and empirical research in the field of macroeconomics, development economics, labor economics, etc. I am currently applying for PhD program in economics.  
 
 My research experience is listed in the RESEARCH page, and a few writing samples are attached there.
 
@@ -15,7 +15,7 @@ My research experience is listed in the RESEARCH page, and a few writing samples
 ### Personal Information
 
 **Language**: Mandarin (native), English (fluent).  
-**Computer Skills**: Matlab, Python, Julia, Stata, LATEX, Adobe PhotoShop, Adobe Premiere, Davinci Resolve.  
+**Computer Skills**: Matlab, Python, Julia, Stata, LATEX, Adobe Premiere, Davinci Resolve.  
 **Interests**: Badminton, Shooting Movies, Photography and Travel.  
 **Email**: [jxhuang21@m.fudan.edu.cn](jxhuang21@m.fudan.edu.cn).
 
