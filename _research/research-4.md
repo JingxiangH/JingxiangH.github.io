@@ -1,5 +1,5 @@
 ---
-title: "Introducing Capital Frictions to Spatial DSGE Model"
+title: "Introducing Capital Friction to Spatial DSGE Model"
 collection: research
 permalink: /research/research-4
 excerpt: 'I am working as an independent researcher advised by Professor Zhiwei Xu at Fudan University to conduct this research (Feb 2024 - ).   
