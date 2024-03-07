@@ -1,5 +1,5 @@
 ---
-title: "How will Releasing the Only-Child Policy Affect Household Saving in China?"
+title: "Introducing Capital Friction to Spatial DSGE Model"
 collection: research
 permalink: /research/research-4
 excerpt: 'I worked as an independent researcher at University of California, Berkeley to conduct this research (Aug 2023 - Dec 2023).  
