@@ -1,5 +1,5 @@
 ---
-title: "How will Releasing the Only-Child Policy Affect Household Saving in China?"
+title: "The Effect of Releasing the Only-Child Policy on  Household Saving in China: Evidence and mechanisms?"
 collection: research
 permalink: /research/research-3
 excerpt: 'I worked as an independent researcher at University of California, Berkeley to conduct this research (Aug 2023 - Dec 2023). This paper is attached as a writing sample.'
