@@ -213,9 +213,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  activity:
-    output: true
-    permalink: /:collection/:path/
+#  activity:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # Defaults
