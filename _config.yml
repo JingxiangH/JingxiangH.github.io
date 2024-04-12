@@ -213,6 +213,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  courses:
+    output: true
+    permalink: /:collection/:path/
 #  activity:
 #    output: true
 #    permalink: /:collection/:path/
@@ -291,6 +294,15 @@ defaults:
 #      author_profile: true
 #      share: true
 #      comments: true
+  # _courses
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 
 # Sass/SCSS

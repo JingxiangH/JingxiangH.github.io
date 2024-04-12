@@ -2,8 +2,8 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Publications"
-    url: /publications/
+  - title: "Course Works"
+    url: /courses/
 
 #  - title: "Activity"
 #    url: /activity/  
