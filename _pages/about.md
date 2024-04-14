@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third-year undergraduate student at [School of Economics](https://econ.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn). I am currently applying for PhD program in economics.  
 
-My research interests widely lie in both theoretical and empirical research in the field of macroeconomics, development economics, labor economics, etc. My research experiences are listed in the RESEARCH page, and a few writing samples are attached there.
+My research interests widely lie in macroeconomics, empirical research in development economics, labor economics, etc. I am also eager to explore new fields. My research experiences are listed in the RESEARCH page, and a few writing samples are attached there.
 
 
 ### Personal Information
