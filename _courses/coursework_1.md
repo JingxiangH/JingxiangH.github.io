@@ -13,4 +13,4 @@ This is a collabrate work with Guanxi Li. We conducted a detailed literature rev
 
 I am responsible for all the therotical part. I have detailed the progress of models over the past decade from 2013 to the present, starting with the ADH (2013) model, which did not consider immigration, assumed an exogenously given tradable share, and lacked capital. Moving to the CDP (2019) model, which incorporated immigration decisions but included only structure without forward-looking investment decisions. Finally, to B. Kleinman, E. Liu and S. J. Redding (2023), which introduced a dynamic spatial general equilibrium model with forward-looking investment decisions.  
 
-Our slides is attached [here](../assets/Labor_Pre_Slides.pdf).
+Our slides are attached [here](../assets/Labor_Pre_Slides.pdf).
