@@ -216,6 +216,9 @@ collections:
   courses:
     output: true
     permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /:collection/:path/
 #  activity:
 #    output: true
 #    permalink: /:collection/:path/
@@ -298,6 +301,15 @@ defaults:
   - scope:
       path: ""
       type: courses
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _courses
+  - scope:
+      path: ""
+      type: cv
     values:
       layout: single
       author_profile: true
