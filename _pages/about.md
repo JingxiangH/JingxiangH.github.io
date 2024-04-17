@@ -19,4 +19,4 @@ My research interests widely lie in macroeconomics, empirical research in develo
 **Interests**: Badminton, Shooting Movies, Photography and Travel.  
 **Email**: <jxhuang21@m.fudan.edu.cn>
 
-Detailed information can be found in my CV [Jingxiang's Curriculum Vitae](/cv/).
+Detailed information can be found in my [CV](/cv/).
