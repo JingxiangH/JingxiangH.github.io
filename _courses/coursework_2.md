@@ -9,9 +9,9 @@ date: "May 2024"
 #citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-This is a collaborative project with Shan Huang. We focus on Laplace New Energy Technology Co., Ltd. and examining the dynamics of China's photovoltaic cell industry.
+This is a collaborative project with Shan Huang. We investigate Laplace New Energy Technology Co., Ltd. and the dynamics of China's photovoltaic cell industry.
 
-I am responsible for the sections on the photovoltaic equipment manufacturing industry, the company, and the models, as well as the creation of all the figures and charts. Shan Huang, is responsible for the photovoltaic industry section and the conclusion. The data, introduction, and other content are the result of our joint effort.
+I am responsible for the sections on the photovoltaic equipment manufacturing industry, the company, and the models, as well as the creation of all the figures and charts. Shan Huang is responsible for the photovoltaic industry section and the conclusion. The data, introduction, and other content are the result of our joint effort.
 
 Here is the translated version of introduction.
 
@@ -29,4 +29,4 @@ Furthermore, the iteration of cell technology often involves upgrading or comple
 
 The remainder of this paper is organized as follows: Section 2 provides an overview of the photovoltaic industry and the corresponding photovoltaic production equipment manufacturing industry. Section 3 specifically introduces Laplace New Energy Technology Co., Ltd. Section 4 offers an operable model.
 
-The report are attached [here](../assets/IO_Project.pdf). (In Chinese)
+The report is attached [here](../assets/IO_Project.pdf). (In Chinese)
