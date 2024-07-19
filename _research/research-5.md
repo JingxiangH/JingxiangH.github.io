@@ -1,5 +1,5 @@
 ---
-title: "Learning about the turnover in ethiopia"
+title: "Learning about the Turnover in Ethiopia"
 collection: research
 permalink: /research/research-5
 excerpt: '(In Progress) I am working as a researcher assistant for David Qihang Wu at Harvard University to conduct this research (Jun 2024 - ).'
