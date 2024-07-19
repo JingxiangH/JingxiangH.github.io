@@ -2,7 +2,7 @@
 title: "Developing Two Chapters in a Textbook of Labor Economics"
 collection: research
 permalink: /research/research-2
-excerpt: 'I worked as a research assitant for Professor Hong Song at Fudan University (Jan 2024 - Feb 2024).'
+excerpt: 'I worked as a research assistant for Professor Hong Song at Fudan University (Jan 2024 - Feb 2024).'
 
 date: "Feb 2024"
 venue: #'Journal 1'
@@ -10,10 +10,9 @@ paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: # ''
 ---
 
-I worked as a research assitant for Professor Hong Song at Fudan University (Jan 2024 - Feb 2024).  
+I worked as a research assistant for Professor Hong Song at Fudan University (Jan 2024 - Feb 2024).  
 
-I developed two chapters in a textbook of labor economics. I conducted a detailed review of literature on the impact of AI and automation technologies on labor market, and then developed a version of Acemoglu and Restrepo’s model (2018) accessible to undergraduate students by simplifying the complicated discussions on general equilibrium, treating the capital market as exogenous, and using more economic intuition rather than math process to explain the conclusions.  
-
+I developed two chapters in a textbook on labor economics. I conducted a detailed review of the literature on the impact of AI and automation technologies on the labor market, and then developed a version of Acemoglu and Restrepo’s (2018) model that is accessible to undergraduate students. I simplified the complex discussions on general equilibrium, treated the capital market as exogenous, and used more economic intuition rather than mathematical processes to explain the conclusions.
 
 The introduction part is listed here:  
 
