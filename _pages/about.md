@@ -17,6 +17,6 @@ My research interests widely lie in macroeconomics, empirical research in develo
 **Language**: Mandarin (native), English (fluent).  
 **Computer Skills**: Matlab, Python, Julia, Stata, LATEX, Adobe Premiere, Davinci Resolve.  
 **Interests**: Badminton, Shooting Movies, Photography and Travel.  
-**Email**: <jxhuang21@m.fudan.edu.cn>
+**Email**: <jingxiang.huang03@gmail.com> or <jxhuang21@m.fudan.edu.cn>
 
 Detailed information can be found in my [CV](/cv/).

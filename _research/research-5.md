@@ -13,4 +13,4 @@ citation: # ''
 
 The turnover rate has been consistenly remained at a high level in the manufacturing industry in Ethiopia. We are interested in whether temporary income shock will lead to increase in early turnover.
 
-My RA work includes constructing datasets and conducting preliminary regression analysis. This involves merging and appending datasets, initial Geographic Information System (GIS) analysis, and various string processing. The tasks are primarily completed using Python and Stata.
+My work includes constructing datasets and conducting preliminary regression analysis and initial Geographic Information System (GIS) analysis. I have extensively used string processing and large language models (LLM) in these works.
