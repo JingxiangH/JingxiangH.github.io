@@ -10,7 +10,7 @@ paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: # ''
 ---
 
-I worked as a research assistant for Professor Hong Song at Fudan University (Jan 2024 - Feb 2024).  
+I worked as a research assistant for Professor [Hong Song](https://econ.fudan.edu.cn/info/1028/14229.htm) at Fudan University (Jan 2024 - Feb 2024).  
 
 I developed two chapters in a textbook on labor economics. I conducted a detailed review of the literature on the impact of AI and automation technologies on the labor market, and then developed a version of Acemoglu and Restrepo’s (2018) model that is accessible to undergraduate students. I simplified the complex discussions on general equilibrium, treated the capital market as exogenous, and used more economic intuition rather than mathematical processes to explain the conclusions.
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year undergraduate student at [School of Economics](https://econ.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn). I will join the Chinese University of Hong Kong in 2025 Fall as a PhD student.  
+I am a forth-year undergraduate student at [School of Economics](https://econ.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn). I will join [the Chinese University of Hong Kong](https://www.econ.cuhk.edu.hk/econ/en-gb/) in 2025 Fall as a PhD student.  
 
 My research interests widely lie in macroeconomics, empirical research in development economics, labor economics, etc. I am also eager to explore new fields. My research experiences are listed in the RESEARCH page, and a few writing samples are attached there.
 
