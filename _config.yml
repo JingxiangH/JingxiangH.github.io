@@ -210,12 +210,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
-  courses:
-    output: true
-    permalink: /:collection/:path/
+  # research:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # courses:
+  #   output: true
+  #   permalink: /:collection/:path/
   cv:
     output: true
     permalink: /:collection/:path/
