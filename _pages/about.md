@@ -11,7 +11,7 @@ I am a first-year PhD student at [the Chinese University of Hong Kong](https://w
 
 ### Personal Information
 
-**Education Experience**: BA from [School of Economics](https://econ.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn).
+**Education Experience**: BA from [Fudan University](https://www.fudan.edu.cn).
 **Language**: Mandarin (native), English (fluent).  
 **Computer Skills**: Matlab, Python, Julia, Stata, LATEX, Adobe Premiere, Davinci Resolve.  
 **Interests**: Badminton, Photography and Travel.  
