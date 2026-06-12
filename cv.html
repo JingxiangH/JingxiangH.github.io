@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Curriculum Vitae — Jingxiang Huang</title>
+  <meta name="description" content="Curriculum vitae of Jingxiang Huang, PhD student in Economics at The Chinese University of Hong Kong.">
+  <link rel="icon" href="images/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,400..600&family=Archivo:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="topbar" id="topbar">
+    <div class="container topbar-inner">
+      <a class="brand" href="index.html">Jingxiang Huang<span class="accent-dot">.</span></a>
+      <nav aria-label="Main navigation">
+        <ul class="nav-links">
+          <li><a href="index.html#about">About</a></li>
+          <li><a href="index.html#research">Research</a></li>
+          <li><a href="cv.html" class="active" aria-current="page">CV</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="section" id="cv" style="margin-top:56px;">
+      <div class="container">
+        <div class="head-rule"></div>
+        <div class="cv-header section-head">
+          <div class="cv-header-row">
+            <div>
+              <p class="kicker">Appendix</p>
+              <h1 class="cv-title">Curriculum Vitae</h1>
+            </div>
+            <div class="cv-toolbar">
+              <!-- The CV file lives at assets/HJX_CV.pdf — replace that file
+                   (same name) to update the CV. See HOW_TO_UPDATE.md. -->
+              <a class="btn btn-solid" href="assets/HJX_CV.pdf" download>Download CV &#8595;</a>
+              <a class="ghost-link" href="assets/HJX_CV.pdf" target="_blank" rel="noopener">Open in new tab &#8599;</a>
+            </div>
+          </div>
+        </div>
+
+        <object class="cv-embed" data="assets/HJX_CV.pdf" type="application/pdf"
+                title="Jingxiang Huang's curriculum vitae (PDF)"
+                aria-label="Embedded PDF of Jingxiang Huang's curriculum vitae">
+          <div class="cv-fallback">
+            <svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+              <polyline points="14 2 14 8 20 8"></polyline>
+              <line x1="12" y1="18" x2="12" y2="12"></line>
+              <polyline points="9 15 12 18 15 15"></polyline>
+            </svg>
+            <p>The inline preview isn&rsquo;t available on this device.</p>
+            <a class="btn btn-solid" href="assets/HJX_CV.pdf">Download the CV &#8595;</a>
+          </div>
+        </object>
+
+        <!-- shown instead of the embed on small screens -->
+        <div class="cv-mobile-panel">
+          <p>PDF preview is hidden on small screens &mdash; grab a copy instead:</p>
+          <a class="btn btn-solid" href="assets/HJX_CV.pdf">Download CV &#8595;</a>
+          <p>Or reach me at <a href="mailto:jingxiang.huang03@gmail.com">jingxiang.huang03@gmail.com</a><br>
+             or <a href="mailto:jingxianghuang@link.cuhk.edu.hk">jingxianghuang@link.cuhk.edu.hk</a>.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="container footer-rule"><div class="head-rule"></div></div>
+  <footer>
+    <div class="container">
+      <p class="footer-name">Jingxiang Huang<span class="accent-dot">.</span></p>
+      <!-- EDIT: contact — footer copy of your contact details -->
+      <ul class="footer-links">
+        <li><a href="mailto:jingxiang.huang03@gmail.com">jingxiang.huang03@gmail.com</a></li>
+        <li><a href="mailto:jingxianghuang@link.cuhk.edu.hk">jingxianghuang@link.cuhk.edu.hk</a></li>
+        <li><a href="https://github.com/JingxiangH" target="_blank" rel="noopener">github.com/JingxiangH</a></li>
+      </ul>
+      <!-- /EDIT: contact -->
+      <p class="footer-fineprint">The Chinese University of Hong Kong · Last updated June 2026</p>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
