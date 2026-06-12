@@ -3,144 +3,69 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Jingxiang Huang — Economics PhD Student at CUHK</title>
-  <meta name="description" content="Jingxiang Huang is a PhD student in Economics at The Chinese University of Hong Kong. Research interests: macroeconomics and industrial policy.">
+  <title>Jingxiang Huang</title>
+  <meta name="description" content="Jingxiang Huang is a PhD student in Economics at The Chinese University of Hong Kong.">
   <link rel="icon" href="images/favicon.ico">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,400..600&family=Archivo:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:wght@700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <div class="page">
+    <div class="layout">
 
-  <header class="topbar" id="topbar">
-    <div class="container topbar-inner">
-      <a class="brand" href="index.html">Jingxiang Huang<span class="accent-dot">.</span></a>
-      <nav aria-label="Main navigation">
-        <ul class="nav-links">
-          <li><a href="#about" data-spy="about">About</a></li>
-          <li><a href="#research" data-spy="research">Research</a></li>
-          <li><a href="cv.html">CV</a></li>
-        </ul>
-      </nav>
+      <div class="sidebar">
+        <img class="portrait" src="images/portrait.jpg" alt="Jingxiang Huang" width="150" height="150">
+        <!-- EDIT: contact -->
+        <div class="side-contact">
+          <a href="mailto:jingxiang.huang03@gmail.com">jingxiang.huang03@gmail.com</a>
+          <a href="mailto:jingxianghuang@link.cuhk.edu.hk">jingxianghuang@link.cuhk.edu.hk</a>
+          <a href="https://github.com/JingxiangH">GitHub</a>
+          <a href="cv.html">CV</a>
+        </div>
+        <!-- /EDIT: contact -->
+      </div>
+
+      <div class="main">
+        <!-- EDIT: intro — your name and short bio -->
+        <h1>Jingxiang Huang</h1>
+        <p class="bio">
+          I am a first-year PhD student in Economics at
+          <a href="https://www.econ.cuhk.edu.hk/econ/en-gb/">The Chinese University of Hong Kong</a>.
+          Before CUHK, I received my BA in Economics from
+          <a href="https://www.fudan.edu.cn">Fudan University</a>.
+        </p>
+        <p class="bio">
+          My research interests lie in macroeconomics and industrial policy,
+          and I am always eager to explore new fields.
+        </p>
+        <!-- /EDIT: intro -->
+
+        <!-- Papers are rendered from papers.js — edit that file to add or
+             unhide a paper. See HOW_TO_UPDATE.md. -->
+        <section>
+          <h2>Working papers</h2>
+          <ul class="paper-list" id="paper-list"></ul>
+          <noscript><p>Please enable JavaScript to view the paper list, or see my CV.</p></noscript>
+        </section>
+
+        <section style="display:none">
+          <h2>Coursework</h2>
+          <ul class="paper-list" id="coursework-list"></ul>
+        </section>
+
+        <p class="footer">Last updated June 2026.</p>
+      </div>
+
     </div>
-  </header>
-
-  <main>
-
-    <!-- ================= HERO / ABOUT ================= -->
-    <section class="hero section" id="about" style="margin-top:0;">
-      <div class="container">
-        <div class="hero-grid">
-          <div class="reveal">
-            <!-- EDIT: intro — your headline, tagline, and short bio live here -->
-            <p class="kicker">PhD Student in Economics · CUHK</p>
-            <h1 class="hero-name">Jingxiang Huang<span class="accent-dot">.</span></h1>
-            <p class="hero-dek">Macroeconomics, industrial policy — and an appetite for new fields.</p>
-            <p class="hero-bio">
-              I am a first-year PhD student at
-              <a href="https://www.econ.cuhk.edu.hk/econ/en-gb/" target="_blank" rel="noopener">The Chinese University of Hong Kong</a> (CUHK).
-              My research interests lie widely in macroeconomics and industrial policy,
-              and I am always eager to explore new fields.
-            </p>
-            <!-- /EDIT: intro -->
-
-            <!-- EDIT: contact — quick links shown under the bio -->
-            <ul class="quick-links">
-              <li><a href="mailto:jingxiang.huang03@gmail.com">Email&nbsp;&#9993;</a></li>
-              <li><a href="https://github.com/JingxiangH" target="_blank" rel="noopener">GitHub&nbsp;&#8599;</a></li>
-              <li><a href="assets/HJX_CV.pdf">CV&nbsp;&#8595;</a></li>
-            </ul>
-            <!-- /EDIT: contact -->
-          </div>
-
-          <figure class="plate reveal">
-            <img src="images/personal.png" alt="Portrait of Jingxiang Huang" width="600" height="600">
-            <!-- Uncomment for a journal-style caption under the photo:
-            <figcaption>Fig. 1 — The Author</figcaption>
-            -->
-          </figure>
-        </div>
-
-        <!-- EDIT: facts — education, languages, skills, interests -->
-        <dl class="colophon reveal">
-          <div class="colophon-item">
-            <dt>Education</dt>
-            <dd>PhD Economics, <a href="https://www.econ.cuhk.edu.hk/econ/en-gb/" target="_blank" rel="noopener">CUHK</a> (current)<br>BA, <a href="https://www.fudan.edu.cn" target="_blank" rel="noopener">Fudan University</a></dd>
-          </div>
-          <div class="colophon-item">
-            <dt>Languages</dt>
-            <dd>Mandarin (native)<br>English (fluent)</dd>
-          </div>
-          <div class="colophon-item">
-            <dt>Skills</dt>
-            <dd>Matlab, Python, Julia, Stata, LaTeX, Adobe Premiere, DaVinci Resolve</dd>
-          </div>
-          <div class="colophon-item">
-            <dt>Interests</dt>
-            <dd>Badminton, photography, and travel</dd>
-          </div>
-        </dl>
-        <!-- /EDIT: facts -->
-      </div>
-    </section>
-
-    <!-- ================= RESEARCH & WORKING PAPERS ================= -->
-    <!-- The entries below are rendered from papers.js — edit that file
-         to add or change a paper. See HOW_TO_UPDATE.md. -->
-    <section class="section" id="research">
-      <div class="container">
-        <div class="head-rule"></div>
-        <div class="section-head">
-          <div class="section-head-row">
-            <h2 class="section-title">Research &amp; Working Papers</h2>
-            <span class="section-count" id="paper-count"></span>
-          </div>
-        </div>
-        <ol class="paper-list" id="paper-list" role="list"></ol>
-        <noscript>
-          <p class="noscript-note">
-            The paper list needs JavaScript to display. Please enable JavaScript,
-            or see my <a href="assets/HJX_CV.pdf">CV</a> for a full list of research projects.
-          </p>
-        </noscript>
-      </div>
-    </section>
-
-    <!-- ================= COURSEWORK ================= -->
-    <!-- Rendered from the `coursework` list in papers.js. -->
-    <section class="section" id="coursework">
-      <div class="container">
-        <div class="head-rule"></div>
-        <div class="section-head">
-          <div class="section-head-row">
-            <h2 class="section-title">Coursework</h2>
-            <span class="section-count" id="coursework-count"></span>
-          </div>
-        </div>
-        <ol class="paper-list" id="coursework-list" role="list"></ol>
-      </div>
-    </section>
-
-  </main>
-
-  <!-- ================= FOOTER ================= -->
-  <div class="container footer-rule"><div class="head-rule"></div></div>
-  <footer>
-    <div class="container">
-      <p class="footer-name">Jingxiang Huang<span class="accent-dot">.</span></p>
-      <!-- EDIT: contact — footer copy of your contact details -->
-      <ul class="footer-links">
-        <li><a href="mailto:jingxiang.huang03@gmail.com">jingxiang.huang03@gmail.com</a></li>
-        <li><a href="mailto:jingxianghuang@link.cuhk.edu.hk">jingxianghuang@link.cuhk.edu.hk</a></li>
-        <li><a href="https://github.com/JingxiangH" target="_blank" rel="noopener">github.com/JingxiangH</a></li>
-      </ul>
-      <!-- /EDIT: contact -->
-      <p class="footer-fineprint">The Chinese University of Hong Kong · Last updated June 2026</p>
-    </div>
-  </footer>
+  </div>
 
   <script src="papers.js"></script>
-  <script src="main.js"></script>
+  <script src="papers-render.js"></script>
+  <script>
+    renderQuietList(papers, "paper-list", { draftNote: "Draft in preparation." });
+    renderQuietList(coursework, "coursework-list");
+  </script>
 </body>
 </html>

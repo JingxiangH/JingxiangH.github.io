@@ -8,11 +8,11 @@ The site is plain HTML/CSS/JS with no build step, served by GitHub Pages
 
 | File / folder         | What it is                                          |
 | --------------------- | --------------------------------------------------- |
-| `index.html`          | Home page: bio + research & working papers          |
+| `index.html`          | Home page: bio + working papers                     |
 | `cv.html`             | CV page (embeds `assets/HJX_CV.pdf`)                |
 | `papers.js`           | **The data file for working papers — edit me**      |
 | `styles.css`          | All styling                                         |
-| `main.js`             | Renders `papers.js` + small page behaviors          |
+| `papers-render.js`    | Renders `papers.js` into the page                   |
 | `assets/`             | PDFs (CV, papers)                                   |
 | `images/`             | Photo and favicon                                   |
 | `old-website-backup/` | Complete copy of the previous Jekyll site           |

@@ -3,14 +3,13 @@
 Everything on the site lives in a handful of files at the repository root.
 Edit the file, commit, push — GitHub Pages republishes automatically in ~1 minute.
 
-| I want to…                          | Edit this file                                  |
-| ----------------------------------- | ----------------------------------------------- |
-| Add / edit a working paper          | `papers.js` (the `papers` list)                 |
-| Add / edit a coursework project     | `papers.js` (the `coursework` list)             |
-| Update my CV                        | replace `assets/HJX_CV.pdf` (keep the filename) |
-| Change my bio, skills, or contact   | `index.html` (contact also in `cv.html`)        |
-| Change my photo                     | replace `images/personal.png`                   |
-| Change colors / fonts / styling     | `styles.css`                                    |
+| I want to…                            | Edit this file                                  |
+| ------------------------------------- | ----------------------------------------------- |
+| Add / edit / unhide a working paper   | `papers.js`                                     |
+| Update my CV                          | replace `assets/HJX_CV.pdf` (keep the filename) |
+| Change my bio or contact links        | `index.html`                                    |
+| Change my photo                       | replace `images/portrait.jpg`                   |
+| Change colors / fonts / styling       | `styles.css`                                    |
 
 ---
 
@@ -23,60 +22,63 @@ block (everything from `{` to `},`), paste it **at the top of the list**
 ```js
 {
   title: "My Amazing New Paper",
-  status: "Working Paper",            // badge text: "In Progress", "Working Paper", etc.
-  period: "Jan 2026 – present",
+  status: "Working Paper",            // for your records only — not shown on the site
+  period: null,                       // optional date range, shown after the coauthors
   people: 'with <a href="https://coauthor-site.com">Coauthor Name</a> (Their University)',
   description: "One to four sentences describing the paper.",
   pdf: "assets/my-new-paper.pdf",     // or null if there is no PDF yet
-  pdfLabel: "PDF",                    // optional button text, e.g. "Slides" or "Report"
-  note: "Optional award or highlight line",   // or null
+  pdfLabel: "pdf",                    // optional [link] text, e.g. "slides" or "report"
+  note: null,                         // optional extra line (e.g. an award)
 },
 ```
 
 Notes:
 - If the paper has a PDF, drop the PDF file into the `assets/` folder first,
-  then set `pdf: "assets/your-file.pdf"`.
+  then set `pdf: "assets/your-file.pdf"`. The title becomes a link and a
+  small `[pdf]` link appears under the entry. With `pdf: null`, the entry
+  shows an italic "Draft in preparation." line instead.
 - `people` and `description` may contain `<a href="...">links</a>`.
 - Don't forget the comma after the closing `}` of each block.
-- The badge color is picked automatically from the `status` text
-  ("In Progress" = amber, "Working Paper" = vermillion red, "Writing Sample" =
-  teal green, anything else = grey).
-- The **Coursework** section works exactly the same way — it is the second
-  list (`coursework`) further down in `papers.js`.
-- After any content change, also bump the visible "Last updated …" date in
-  the footer — it is near the bottom of **both** `index.html` and `cv.html`
-  (search for `Last updated`).
 
-## 2. Update your CV
+## 2. Hide or unhide a paper
+
+Your undergraduate projects are still in `papers.js`, each marked with
+`hidden: true`. **Delete that line (or set it to `false`) to put one back on
+the site.** Add `hidden: true` to any entry to take it off the site without
+deleting it.
+
+The second list in the file, `coursework`, works the same way — its
+"Coursework" section automatically appears on the page as soon as at least
+one entry in it is not hidden.
+
+## 3. Update your CV
 
 Replace the file **`assets/HJX_CV.pdf`** with your new CV, **keeping the same
-filename**. That's it — both the embedded viewer on the CV page and the
-"Download CV" buttons point at that file.
+filename**. Both the embedded viewer on the CV page and every CV link point
+at that file.
 
-(If you must change the filename, search for `HJX_CV.pdf` in `cv.html` and
-`index.html` and update the paths.)
+## 4. Edit your bio / contact info
 
-## 3. Edit your bio / contact info
+Open **`index.html`** and look for the comment markers:
 
-Open **`index.html`** and look for the comment markers — the editable text is
-fenced so it's easy to find:
+- `<!-- EDIT: intro -->` — your name and the two short bio paragraphs
+- `<!-- EDIT: contact -->` — the email / GitHub / CV links under your photo
 
-- `<!-- EDIT: intro -->` — the headline and short bio paragraph
-- `<!-- EDIT: facts -->` — education, languages, skills, interests
-- `<!-- EDIT: contact -->` — email addresses and GitHub link (appears in the
-  hero and again in the footer)
+## 5. Housekeeping when you change things
 
-Heads-up: the footer contact block is **duplicated in `cv.html`** (also marked
-`<!-- EDIT: contact -->`), and your email appears once more in the small-screen
-download panel of `cv.html` — if your contact details change, update those too.
+- Update the visible "Last updated …" line at the bottom of **both**
+  `index.html` and `cv.html` (search for `Last updated`).
+- New photo? Save it as a square ~300×300 JPEG at `images/portrait.jpg`
+  (small files keep the page fast).
 
-## 4. Preview before publishing
+## 6. Preview before publishing
 
 Just open `index.html` in your browser (double-click it) — the site is plain
 HTML/CSS and needs no build step or server.
 
-## 5. Going back to the old website
+## 7. Going back to the old website
 
 The complete previous (Jekyll) site is preserved in **`old-website-backup/`**.
 Follow the steps in `old-website-backup/README_BACKUP.md` to restore it.
-Git history also retains every prior version.
+Git history also retains every prior version, including the intermediate
+redesigns (the "Offprint" design and Plans A/B/C).
