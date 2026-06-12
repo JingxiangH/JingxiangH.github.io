@@ -29,7 +29,7 @@ const papers = [
     status: "Working Paper",
     period: null,
     people: 'with <a href="https://sites.google.com/view/qihangwu/" target="_blank" rel="noopener">David Qihang Wu</a> (Georgia State University)',
-    description: "Turnover has remained persistently high in Ethiopian manufacturing. We study what drives early turnover in a flagship industrial park, drawing on detailed administrative records covering 58,530 applicants from 2018 to 2023.",
+    description: "We study the causes of high turnover rates in a flagship industrial park in Ethiopia with detailed administrative records for 58,530 applicants during 2018–23. (1) Leveraging exogenous price shocks, we find that better outside options reduced the likelihood that applicants would take any jobs in the industrial park but did not induce current workers to separate from the industrial park. We use a standard search model to show that applicants' rejection rate can be inefficiently low. (2) Using productivity data from individual firms, we find correlational evidence that workers with lower productivity were more likely to separate. We further provide causal evidence using an information treatment that separation can be explained by learning on the job. Our model demonstrates that workers' separation rate can be inefficiently high. Our policy discussion implies a tension between improving matching efficiency and decreasing turnover.",
     pdf: null,
     note: null,
   },
