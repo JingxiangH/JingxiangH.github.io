@@ -95,7 +95,7 @@ h2 {
 
 .footer {
   font-size: 13px;
-  color: #999;
+  color: #666;
   margin-top: 24px;
 }
 
@@ -103,7 +103,8 @@ h2 {
 .page-wide { max-width: 960px; }
 .cv-home { font-size: 16px; font-weight: 700; text-decoration: none; }
 .cv-home:hover { text-decoration: underline; }
-.cv-intro { font-size: 15px; margin: 16px 0; }
+.cv-title { font-size: 18px; font-weight: 700; margin: 16px 0 8px; }
+.cv-intro { font-size: 15px; margin: 0 0 16px; }
 .cv-embed {
   width: 100%;
   height: 85vh;

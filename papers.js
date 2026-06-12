@@ -6,21 +6,21 @@
 
    Fields:
      title       - paper title (required)
-     status      - badge text, e.g. "In Progress", "Working Paper",
-                   "Writing Sample", "Research Assistant"
-     period      - time range shown under the title
+     status      - for your own records only; not shown on the site
+     period      - optional date range, shown after the coauthor line
      people      - advisors / coauthors line; you may use
                    <a href="...">links</a> inside it
      description - 1-4 sentences; <a> links are allowed too
      pdf         - path or URL to the paper PDF, or null if none
-     pdfLabel    - optional text for the PDF button (default "PDF")
-     note        - optional highlighted line (e.g. an award); or null
+     pdfLabel    - optional text for the [pdf] link (default "pdf")
+     note        - optional extra line (e.g. an award); or null
      hidden      - set to true to hide an entry from the site without
                    deleting it (remove the line, or set false, to show it)
 
    There are TWO lists in this file:
-     papers     - the "Research" section
-     coursework - the "Coursework" section (same fields)
+     papers     - the "Working papers" section
+     coursework - the "Coursework" section (same fields; this section
+                  only appears when at least one entry is not hidden)
    ============================================================ */
 
 const papers = [
