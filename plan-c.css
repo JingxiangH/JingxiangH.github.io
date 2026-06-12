@@ -10,7 +10,7 @@ body {
 }
 
 .page {
-  max-width: 820px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 56px 20px 64px;
 }
@@ -22,7 +22,7 @@ img { max-width: 100%; }
 
 .layout {
   display: grid;
-  grid-template-columns: 160px 1fr;
+  grid-template-columns: 230px 1fr;
   column-gap: 48px;
   align-items: start;
 }
@@ -43,6 +43,7 @@ img { max-width: 100%; }
 .side-contact a {
   display: block;
   text-decoration: none;
+  white-space: nowrap;
 }
 .side-contact a:hover { text-decoration: underline; }
 
@@ -91,14 +92,7 @@ h2 {
   margin-top: 7px;
 }
 
-/* demoted facts + footer */
-.facts {
-  font-size: 14px;
-  color: #6b655c;
-  margin: 56px 0 0;
-}
-.facts p { margin: 0 0 4px; }
-
+/* footer */
 .footer {
   font-size: 14px;
   color: #6b655c;
