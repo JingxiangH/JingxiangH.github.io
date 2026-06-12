@@ -15,23 +15,26 @@
      pdf         - path or URL to the paper PDF, or null if none
      pdfLabel    - optional text for the PDF button (default "PDF")
      note        - optional highlighted line (e.g. an award); or null
+     hidden      - set to true to hide an entry from the site without
+                   deleting it (remove the line, or set false, to show it)
 
    There are TWO lists in this file:
-     papers     - the "Research & Working Papers" section
+     papers     - the "Research" section
      coursework - the "Coursework" section (same fields)
    ============================================================ */
 
 const papers = [
   {
-    title: "Learning about the Turnover in Ethiopia",
-    status: "In Progress",
-    period: "Jun 2024 – present",
-    people: 'with <a href="https://www.qihangwu.com/" target="_blank" rel="noopener">David Qihang Wu</a> (Harvard University)',
-    description: "The turnover rate has consistently remained at a high level in the manufacturing industry in Ethiopia. We study whether temporary income shocks lead to an increase in early turnover. My work includes constructing the datasets, preliminary regression analysis, and initial GIS analysis, making extensive use of string processing and large language models (LLMs).",
+    title: "What Causes Turnover? Evidence from an Ethiopian Industrial Park",
+    status: "Working Paper",
+    period: null,
+    people: 'with <a href="https://sites.google.com/view/qihangwu/" target="_blank" rel="noopener">David Qihang Wu</a> (Georgia State University)',
+    description: "Turnover has remained persistently high in Ethiopian manufacturing. We study what drives early turnover in a flagship industrial park, drawing on detailed administrative records covering 58,530 applicants from 2018 to 2023.",
     pdf: null,
     note: null,
   },
   {
+    hidden: true, // undergraduate project — kept here in case you want it back
     title: "Introducing Capital Friction to Spatial DSGE Model",
     status: "In Progress",
     period: "Feb 2024 – present",
@@ -41,6 +44,7 @@ const papers = [
     note: null,
   },
   {
+    hidden: true, // undergraduate project — kept here in case you want it back
     title: "Developing Two Chapters in a Textbook of Labor Economics",
     status: "Research Assistant",
     period: "Jan 2024 – Feb 2024",
@@ -50,6 +54,7 @@ const papers = [
     note: null,
   },
   {
+    hidden: true, // undergraduate project — kept here in case you want it back
     title: "The Effect of Releasing the Only-Child Policy on Household Saving in China: Evidence and Mechanisms",
     status: "Writing Sample",
     period: "Aug 2023 – Dec 2023 · UC Berkeley",
@@ -59,6 +64,7 @@ const papers = [
     note: "Outstanding paper, National Training Base Conference for Foundational Talent in Economics (Ministry of Education); Second prize for Outstanding Undergraduate Academic Paper (best among junior students), School of Economics, Fudan University.",
   },
   {
+    hidden: true, // undergraduate project — kept here in case you want it back
     title: "How does Education Affect Income Inequality?",
     status: "Writing Sample",
     period: "May 2023",
@@ -71,6 +77,7 @@ const papers = [
 
 const coursework = [
   {
+    hidden: true, // undergraduate coursework — kept here in case you want it back
     title: "Report on Industrial Economics",
     status: "Coursework",
     period: "May 2024",
@@ -81,6 +88,7 @@ const coursework = [
     note: null,
   },
   {
+    hidden: true, // undergraduate coursework — kept here in case you want it back
     title: "Presentation on Labor Economics",
     status: "Coursework",
     period: "Apr 2024",

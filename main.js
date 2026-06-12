@@ -9,6 +9,13 @@ function renderEntryList(items, listId, countId) {
   var list = document.getElementById(listId);
   if (!list || !items) return;
 
+  items = items.filter(function (p) { return !p.hidden; });
+
+  // hide the whole section when every entry is hidden
+  var section = list.closest ? list.closest("section") : null;
+  if (section) section.style.display = items.length ? "" : "none";
+  if (!items.length) return;
+
   function badgeClass(status) {
     var s = (status || "").toLowerCase();
     if (s.indexOf("progress") !== -1) return "badge-in-progress";
