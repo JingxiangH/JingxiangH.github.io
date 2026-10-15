@@ -30,7 +30,7 @@ const papers = [
     period: "September 2026",
     people: 'with <a href="https://philippbarteska.com/" target="_blank" rel="noopener">Philipp Barteska</a> (University of Hong Kong) and <a href="https://sites.google.com/view/qihangwu/" target="_blank" rel="noopener">David Qihang Wu</a> (Georgia State University)',
     description: "We study the causes of high turnover rates in a flagship industrial park in Ethiopia with detailed administrative records for 58,530 applicants during 2018–23. (1) Leveraging exogenous price shocks, we find that better outside options reduced the likelihood that applicants take any jobs in the industrial park but did not induce current workers to separate. A simple job search model can explain the effect of price shocks on applicants. (2) Using productivity data from individual firms, we find evidence that workers with lower productivity were more likely to separate. A simple model with workers learning about their productivity on the job can partially explain the correlation. The findings suggest that high turnover is not necessarily an indicator of \"bad jobs\", but rather a depiction of a competitive local labor market with many young, inexperienced workers.",
-    pdf: "assets/bhw_turnover.pdf",
+    pdf: "assets/HIP_turnover.pdf",
     note: null,
   },
   {
